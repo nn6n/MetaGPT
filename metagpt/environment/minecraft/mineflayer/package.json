@@ -33,6 +33,6 @@
         "graceful-fs": "^4.2.11"
     },
     "devDependencies": {
-        "prettier": "2.8.5"
+        "prettier": "2.8.8"
     }
 }
